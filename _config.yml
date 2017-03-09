@@ -1,24 +1,27 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               Le Biochimiste
+tagline:             Nouvelles scientifiques
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+destination:        #/var/www/html/lebiochimiste.com/public_html/
+baseurl:            #"/"
+url:                #"https://www.lebiochimiste.com"
+lang:               fr_CA
+
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:              #"https://www.github.com/normcyr/lebiochimiste.com"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Normand Cyr"
+  email:             "normand.cyr@gmail.com"
+  twitter:           "lebiochimiste"
+  facebook:          "normand.cyr"
+  github:            "normcyr"
+  linkedin:          "normcyr"
+  researchgate:      "Normand_Cyr"
 navigation:
-- title: About
-  url: /about
-- title: Writing
-  url: /writing
+- title: À propos
+  url: /apropos
+- title: Articles
+  url: /articles
 - title: Contact
   url: /contact
 
