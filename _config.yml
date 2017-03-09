@@ -2,10 +2,9 @@
 title:               Le Biochimiste
 tagline:             Nouvelles scientifiques
 description:
-destination:        #/var/www/html/lebiochimiste.com/public_html/
-baseurl:            #"/"
-url:                #"https://www.lebiochimiste.com"
-lang:               fr_CA
+destination:        /var/www/html/lebiochimiste.com/public_html/
+baseurl:            ""
+url:                "https://www.lebiochimiste.com"
 
 github:
   url:              #"https://www.github.com/normcyr/lebiochimiste.com"
